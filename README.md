@@ -12,3 +12,6 @@ se for 1 ou 2
 perguntar o URL do video para o usuario
 printar baixando
 e baixar o video (caso ser 2 baixar o audio)
+
+Feito por [OreOFDev](https://github.com/OreOFDev)
+:D
